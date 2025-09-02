@@ -3,5 +3,7 @@
 public class Main {
     public static void main(String[] args) {
     new UsingBorderLayout();
+
+        System.out.println("Hello World");
     }
 }
