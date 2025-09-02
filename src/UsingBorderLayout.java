@@ -6,7 +6,7 @@ public class UsingBorderLayout {
        JFrame BorderLayoutFrame = new JFrame("BorderLayout Frame");
 
        BorderLayoutFrame.setLayout( new BorderLayout());
-       BorderLayoutFrame.setSize(3000, 8000);
+       BorderLayoutFrame.setSize(3000, 80000);
        BorderLayoutFrame.setVisible(true);
     }
 }
